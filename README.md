@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Josh (@jbrunton4)
-- 🎓 Currently a full-time student
-- 💻 Experienced in Python & learning more!
-- 🗣️ 🇬🇧 Native | 🇫🇷 Proficient | 🇯🇵 Intermediate | 🇪🇸 Beginner
+- 💻 Working as a .NET Developer
+- 🗣️ 🇬🇧 Native | 🇫🇷 Proficient | 🇯🇵 Intermediate
 
 <!---
 jbrunton4/jbrunton4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
